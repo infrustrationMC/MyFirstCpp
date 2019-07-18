@@ -1,0 +1,17 @@
+#ifndef _lib_
+#define _lib_
+#include <iostream>
+#include <iomanip>
+#include <math.h>
+#include <cmath>
+#include <string>
+#include <string.h>
+#include <cstring>
+#include <cstringt.h>
+#include <cstdlib>
+#include <ctime>
+#include <random>
+#include <io.h>
+#include <fcntl.h>
+#include <windows.h>
+#endif _lib_
